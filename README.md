@@ -1,1 +1,1 @@
-"# mnist from numpy" 
+mnist from numpy
